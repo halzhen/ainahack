@@ -1,2 +1,3 @@
-# Aina hack
-Repositori de l'equip 2 per l'Aina Hack
+# Aina hack : Automatització i Classificació de Tràmits amb IA 
+Repositori de l'equip 2 per l'Aina HacK
+
