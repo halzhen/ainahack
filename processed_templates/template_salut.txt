@@ -1,0 +1,95 @@
+SA00256SRA
+Servei Català
+Salut/dela Salut
+Generalitat
+de Catalunya
+Núm. d'expedient¹
+Regió sanitària de tramitació¹
+RS Alt Pirineu i Aran
+Sol·licitud de reintegrament de l'import en concepte d'excés d'aportació dels usuaris
+en la prestació farmacèutica ambulatòria
+Dades de la sol·licitud de reintegrament
+Cognoms i nom de la persona assegurada
+CIP
+DNI/NIF/NIE
+Adreça
+Població
+Nombre de factures originals aportades a la sol·licitud
+Telèfon
+Import sol·licitat (camp obligatori)
+€
+Dades a l'efecte de rebre notificacions relacionades amb aquesta sol·licitud
+Accepto rebre notificacions electròniques a l'adreça electrònica o missatges al telèfon mòbil (especifiqueu l'adreça i el mòbil):2
+Adreça electrònica
+Telèfon mòbil
+En cas de no acceptar la recepció de notificacions electròniques, s'enviaran a l'adreça postal de la persona afectada o, si escau,
+a la de la persona que la representa
+Dades del representant legal (en cas de menors o incapacitats)
+Cognoms i nom
+DNI/NIF/NIE
+Dades relatives al Projecte d'interoperabilitat europea
+(empleneu-les només si la dispensació s'ha produït en el marc d'aquest Projecte)
+País de dispensació
+Data d'inici d'estada al país
+Data de finalització
+Sol·licito:
+La devolució de l'import esmentat, en concepte d'excés en l'aportació de la prestació farmacèutica ambulatòria.
+Expliqueu breument el motiu de la sol·licitud
+Lorem Ipsum dolor sit amet
+Signatura de la persona usuària o del representant legal (en cas de menors o incapacitats)
+Data
+Autorització per obtenir dades als organismes corresponents
+No cal que lliureu la documentació següent perquè la signatura i presentació d'aquesta sol·licitud comporta que autoritzeu
+el Servei Català de la Salut perquè la consulti a altres organismes i administracions públiques amb la finalitat de resoldre
+la vostra sol·licitud, d'acord amb el que preveu l'article 6 de la Llei orgànica 3/2018, de 5 de desembre, de protecció de
+dades personals i garantia dels drets digitals, i l'article 28.2 de la Llei 39/2015, d'1 d'octubre, del procediment administratiu
+comú de les administracions públiques:
+- Fotocòpia del DNI/NIE o permís de residència (si és el cas).
+· Certificat de l'INSS (si és el cas).
+- Certificat del grau de discapacitat (si és el cas).
+Si no voleu donar aquesta autorització, marqueu la casella de denegació següent i presenteu la documentació esmentada
+quan lliureu aquesta sol·licitud.
+Denego l'autorització al Servei Català de la Salut per obtenir aquestes dades als organismes corresponents.
+Declaració responsable de la persona sol·licitant
+Declaro la no existència de tercers responsables obligats al pagament de les despeses en concepte de dietes
+d'estada i manutenció per les quals sol·licito l'ajut i que no he sol·licitat cap tipus d'ajut per al mateix concepte a una
+altra Administració o a altres entitats públiques o privades.
+Notes: vegeu el revers d'aquest document.
+SA00256SRA
+Documentació que cal aportar
+- Originals de les factures o dels tiquets (es recomana també adjuntar una relació numerada de les
+factures o tiquets, ordenada per dates i amb el càlcul corresponent).
+- En cas de recepta mèdica del Servei Català de la Salut en format paper, es recomana lliurar
+l'original del Volant d'instruccions per al pacient.
+- Sol·licitud de transferència bancària per a pagaments de prestacions complementàries i
+reintegraments degudament emplenada.
+- Certificat de l'INSS (en cas de canvi de situació o d'una altra causa que incideixi en el percentatge
+d'aportació o en el límit màxim mensual recollit al registre central de persones assegurades -RCA-
+del Servei Català de la Salut, amb indicació des de la data en què s'ha produït aquest canvi) o
+qualsevol altre document que acrediti la causa de la sol·licitud de reintegrament (pensió no
+contributiva, Programa interdepartamental de la renda mínima d'inserció –PIRMI-, malaltia
+professional o accident de treball, etc.).
+- Si la persona assegurada és menor d'edat o incapacitada, el seu representant legal ha d'adjuntar
+una fotocòpia del DNI del menor o incapacitat i també l'acreditació de la representació legal
+corresponent.
+Instruccions per emplenar aquesta sol·licitud
+1 Aquest apartat l'ha d'emplenar el Servei Català de la Salut.
+2 Acceptació a rebre notificacions electròniques relacionades amb aquesta sol·licitud segons
+estableixen els articles 14.1 i 41.1 de la Llei 39/2015, d'1 d'octubre, del procediment administratiu
+comú de les administracions públiques.
+Informació bàsica sobre protecció de dades
+Identificació del tractament: Registre de prestacions complementàries.
+Responsable del tractament: Sotsdirecció del Servei Català de la Salut. Travessera de les
+Corts, 131-159, 08028 Barcelona.
+Finalitat: dur a terme la gestió, el seguiment de la tramitació i autorització de les prestacions del
+sistema sanitari públic català i/o el seu pagament.
+Legitimació: consentiment de la persona interessada.
+Destinataris: les dades s'han de comunicar als encarregats de tractament que actuïn per compte
+del responsable del tractament.
+Drets de les persones interessades: podeu exercir els vostres drets d'accés, rectificació,
+supressió, oposició al tractament, dret a l'oblit, dret a la portabilitat de les dades i sol·licitud de
+limitació mitjançant el formulari electrònic disponible a Tràmits Gencat (https://catsalut.gencat.
+cat/drets-proteccio-dades).
+Informació addicional: si voleu ampliar aquesta informació, podeu consultar la informació
+addicional del tractament al web del Servei Català de la Salut (https://catsalut.gencat.cat/
+proteccio-dades).
